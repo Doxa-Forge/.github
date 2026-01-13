@@ -8,10 +8,10 @@ Doxa Forge is a **student-driven innovation lab** founded with a passion for **t
 
 ## **About Doxa Forge**
 
-At this stage, Doxa Forge is currently a **one-person initiative** focused on **rapid prototyping and experimentation**. The goal is to:
+Doxa Forge is ocused on **rapid prototyping and experimentation**. The goal is to:
 
 * Transform ideas into **working prototypes or MVPs** quickly.
-* Explore **AI, SaaS, web, mobile, and desktop applications**.
+* Explore **AI, SaaS, Engineering, Medical applications**.
 * Learn and apply **modern development practices, project workflows, and startup thinking**.
 
 Once a prototype demonstrates potential, it may evolve into a **full-fledged startup or SaaS product**, either solo or with collaborators.
@@ -21,6 +21,7 @@ Once a prototype demonstrates potential, it may evolve into a **full-fledged sta
 ## **Current Focus Areas**
 
 * **Rapid prototyping** – web apps, mobile apps, Electron desktop apps.
+* **Engineering** - developping cheaper alternatives to overprices medical equipment.
 * **SaaS MVPs** – planning tools, team management, AI-driven workflows.
 * **AI experimentation** – small-scale models, automations, or enhancements.
 * **Idea validation** – turning concepts into testable software quickly.
